@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c91308a9-3322-4eb4-a23c-3c7b69469f87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,14 +25,14 @@
         <counts>
           <entry key="Pipfile" value="1" />
           <entry key="Python Console" value="7" />
-          <entry key="py" value="955" />
-          <entry key="txt" value="35" />
+          <entry key="py" value="1556" />
+          <entry key="txt" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="962" />
+          <entry key="PLAIN_TEXT" value="78" />
+          <entry key="Python" value="1563" />
           <entry key="TOML file" value="1" />
         </counts>
       </usages-collector>
@@ -79,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/main.py.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
@@ -258,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1535643811409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="two cells merged">
+      <created>1535644089906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535644089906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="piechart legendary vs non-legendary pokemon">
+      <created>1535644815892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535644815892</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -272,6 +287,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.12040558" />
       <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.12040558" />
@@ -283,7 +299,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.27756655" weight="0.32884097" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5006337" side_tool="true" weight="0.1967655" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49936628" weight="0.32884097" />
@@ -324,7 +340,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="read csv file" />
     <MESSAGE value="two cells merged" />
-    <option name="LAST_COMMIT_MESSAGE" value="two cells merged" />
+    <MESSAGE value="piechart legendary vs non-legendary pokemon" />
+    <option name="LAST_COMMIT_MESSAGE" value="piechart legendary vs non-legendary pokemon" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://D:/Programfiles/Anaconda3/Lib/site-packages/notebook/templates/terminal.html">
@@ -370,7 +387,7 @@
     <entry file="file://$PROJECT_DIR$/main.py.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="7" />
         </state>
       </provider>
     </entry>
