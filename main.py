@@ -6,7 +6,8 @@ import seaborn as sb
 import matplotlib.pyplot as plt
 
 
-frame = pd.read_csv('../input/pokemon.csv')
+frame = pd.read_csv('input/pokemon.csv')
 
+print(frame.head(1))
 
 
